@@ -287,7 +287,7 @@ body{
     color: var(--colortexto);
     font-size: 25px;
     background: var(--backgroundcolor);
-    background-image: url(/resources/triangles-top.svg), url(/resources/triangles-bottom.svg);
+    background-image: url(resources/triangles-top.svg), url(resources/triangles-bottom.svg);
     background-position: left top, right bottom;
     background-repeat: no-repeat;
     background-size: inherit;
